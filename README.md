@@ -8,7 +8,7 @@ Founder of **[Solar AI Systems](https://solar-ai-systems.tech)**, Algeria. A tec
 
 Turns a phone into a universal remote for TVs, air conditioners and receivers, over infrared, Wi‑Fi and Bluetooth. Its on-device model finds a remote that no catalogue knows in a few yes/no answers. It covers 465+ TV brands, 100+ AC brands and the Algerian brands other apps leave out, in six languages, fully offline. Live on Google Play.
 
-- [remote-dna-ai](https://github.com/MohamedKhocha/remote-dna-ai): the learning part, open. Python model, a JavaScript port checked against it, tests.
+- **remote-dna-ai**: the learning part (private, source available on request). Python model, a JavaScript port checked against it, tests. Try it in the [live demo](https://mohamedkhocha.github.io/remote-dna/demo/).
 - [remote-dna](https://github.com/MohamedKhocha/remote-dna): the website, interactive demo and user guide ([live](https://mohamedkhocha.github.io/remote-dna/)).
 - [remote-dna-privacy](https://github.com/MohamedKhocha/remote-dna-privacy): the privacy policy, kept in sync with the shipping code.
 
